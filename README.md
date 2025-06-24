@@ -62,3 +62,24 @@ PORT=3000
 1. Start MongoDB: `mongod` (or equivalent for your OS)
 2. Install dependencies: `npm install`
 3. Start server: `node server.js`# StockSync_API
+
+
+----------------------------------------------------
+
+## Tests
+
+**Testing Framework**: Jest + Supertest  
+
+**Test Types Implemented**:  
+✅ Unit Tests (Model/Controller logic)  
+✅ Integration Tests (Database operations)  
+✅ API Tests (Endpoint validation)  
+
+**Run Tests**:  
+```bash
+npm test          # Run all test suites
+```
+
+## Test Report
+
+![Test Report](./public/assets/TestsResult.png)
