@@ -83,3 +83,9 @@ npm test          # Run all test suites
 ## Test Report
 
 ![Test Report](./public/assets/TestsResult.png)
+
+
+## Keploy API Testing
+
+![Test Cases](./public/assets/keploy%20api%20test.png)
+![Keploy Rep](./public/assets/keploy%20rep.png)
